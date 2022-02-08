@@ -4,7 +4,7 @@
 
 <!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
 
-# UNICEF'S ANNUAL HUMAN SUPPORT CONFERENCE
+# Mapty App
 
 > .This Application made with vanilla JavaScript and I used Geolocation and OOP Javascript there, This app contain a map and you can press on anywhere then specify what you want to do there running or cycling . '🏃‍♂️' OR '🚴‍♀️
 
