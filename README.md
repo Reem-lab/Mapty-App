@@ -1,5 +1,3 @@
-# Mapty App
-
 ![](https://img.shields.io/static/v1?label=BY&message=Reemoz&color=pink)
 
 <!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
