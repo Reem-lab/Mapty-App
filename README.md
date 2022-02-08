@@ -8,6 +8,10 @@
 
 <video src="mapty.mp4" width="70%"></video>
 
+## Live Version
+
+[see live version here](https://reem-lab.github.io/Mapty-App/)
+
 ## Built With
 
 - Languages: _**HTML, CSS, JavaScript**_
