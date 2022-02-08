@@ -6,7 +6,7 @@
 
 > .This Application made with vanilla JavaScript and I used Geolocation and OOP Javascript there, This app contain a map and you can press on anywhere then specify what you want to do there running or cycling . '🏃‍♂️' OR '🚴‍♀️
 
-<img src="mapty.mp4" width="70%">
+<video src="mapty.mp4" width="70%"></video>
 
 ## Built With
 
