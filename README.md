@@ -8,7 +8,6 @@
 
 ## Video Demo 📽
 
-Uploading mapty __ Map your workouts - Google Chrome 2022-02-08 17-24-32.mp4…
 
 
 ## Live Version
