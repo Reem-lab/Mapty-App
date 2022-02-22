@@ -8,8 +8,6 @@
 
 ## Video Demo 📽
 
-
-
 ## Live Version
 
 [see live version here](https://reem-lab.github.io/Mapty-App/)
