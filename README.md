@@ -6,7 +6,10 @@
 
 > .This Application made with vanilla JavaScript and I used Geolocation and OOP Javascript there, This app contain a map and you can press on anywhere then specify what you want to do there running or cycling . '🏃‍♂️' OR '🚴‍♀️
 
-<video src="mapty.mp4" width="70%"></video>
+## Video Demo 📽
+
+Uploading mapty __ Map your workouts - Google Chrome 2022-02-08 17-24-32.mp4…
+
 
 ## Live Version
 
