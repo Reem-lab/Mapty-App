@@ -6,11 +6,11 @@
 
 > .This Application made with vanilla JavaScript and I used Geolocation and OOP Javascript there, This app contain a map and you can press on anywhere then specify what you want to do there running or cycling . '🏃‍♂️' OR '🚴‍♀️
 
-<video src="mapty.mp4" width="70%"></video>
+
 
 ## Live Version
 
-[see live version here](https://reem-lab.github.io/Mapty-App/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae4b5656-600c-4531-b066-7086b139d243/deploy-status)](https://maptyapplic.netlify.app/)
 
 ## Built With
 
